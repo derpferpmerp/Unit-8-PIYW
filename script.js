@@ -1,46 +1,10 @@
 // Yung Bratz Setup
 var songData = {
-	"Yung Bratz": {
-		"TRACK": "YungBratzAudio",
-		"CONTR": "YungBratzControl",
-		"CONTAINER": "YungContainer",
-		"NAME": "Yung Bratz",
-	},
-	"Eat It Up": {
-		"TRACK": "EatItUpAudio",
-		"CONTR": "EatItUpControl",
-		"CONTAINER": "EatContainer",
-		"NAME": "Eat It Up",
-	},
-	"Changes": {
-		"TRACK": "ChangesAudio",
-		"CONTR": "ChangesControl",
-		"CONTAINER": "ChangesContainer",
-		"NAME": "Changes",
-	},
-	"Rock Bottom": {
-		"TRACK": "RBAudio",
-		"CONTR": "RBControl",
-		"CONTAINER": "RBContainer",
-		"NAME": "Rock Bottom",
-	},
-	"Tip Toe": {
-		"TRACK": "TTAudio",
-		"CONTR": "TTControl",
-		"CONTAINER": "TTContainer",
-		"NAME": "Tip Toe",
-	},
-	"Closer": {
-		"TRACK": "CloserAudio",
-		"CONTR": "CloserControl",
-		"CONTAINER": "CloserContainer",
-		"NAME": "Closer",
-	},
-	"The One": {
-		"TRACK": "TheOneAudio",
-		"CONTR": "TheOneControl",
-		"CONTAINER": "TheOneContainer",
-		"NAME": "The One Who Got Away",
+	"Ridin Dirty": {
+		"TRACK": "RidinAudio",
+		"CONTR": "RidinControl",
+		"CONTAINER": "RidinContainer",
+		"NAME": "Ridin Dirty",
 	}
 }
 

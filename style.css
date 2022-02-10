@@ -1,6 +1,8 @@
 @font-face{
 	font-family: 'Google Sans';
-	src: url('GoogleSans-Regular.woff2'), url('GoogleSans-Regular.woff2') format('woff2');
+	src:
+		url('GoogleSans-Regular.woff2'),
+		url('GoogleSans-Regular.woff2') format('woff2');
 }
 :root {
 	--inside: transparent 98%;
@@ -84,13 +86,8 @@ html {
 
 
 #player-container #play-pause, 
-#YungContainer #YungBratzControl,
-#EatContainer #EatItUpControl,
-#ChangesContainer #ChangesControl,
-#RBContainer #RBControl,
-#TTContainer #TTControl,
-#CloserContainer #CloserControl,
-#TheOneContainer #TheOneControl {
+#RidinContainer #RidinControl,
+{
   cursor: pointer;
   text-indent: -999999px;
   height: 40px;
