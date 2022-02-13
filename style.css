@@ -102,7 +102,8 @@ html {
 #FantasyContainer #FantasyControl,
 #GrenadeContainer #GrenadeControl,
 #AmericaContainer #AmericaControl,
-#PoliceContainer #PoliceControl {
+#PoliceContainer #PoliceControl,
+#LoseContainer #LoseControl {
   cursor: pointer;
   text-indent: -999999px;
   height: 40px;

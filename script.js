@@ -29,6 +29,12 @@ var songData = {
 		"CONTR": "PoliceControl",
 		"CONTAINER": "PoliceContainer",
 		"NAME": "F**k the Police",
+	},
+	"Lose Yourself": {
+		"TRACK": "LoseAudio",
+		"CONTR": "LoseControl",
+		"CONTAINER": "LoseContainer",
+		"NAME": "Lose Yourself",
 	}
 }
 
