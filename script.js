@@ -5,6 +5,12 @@ var songData = {
 		"CONTR": "RidinControl",
 		"CONTAINER": "RidinContainer",
 		"NAME": "Ridin Dirty",
+	},
+	"What\'s Your Fantasy": {
+		"TRACK": "FantasyAudio",
+		"CONTR": "FantasyControl",
+		"CONTAINER": "FantasyContainer",
+		"NAME": "What\'s Your Fantasy",
 	}
 }
 
