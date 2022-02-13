@@ -23,8 +23,16 @@ var songData = {
 		"CONTR": "AmericaControl",
 		"CONTAINER": "AmericaContainer",
 		"NAME": "This is America",
+	},
+	"F**k the Police": {
+		"TRACK": "PoliceAudio",
+		"CONTR": "PoliceControl",
+		"CONTAINER": "PoliceContainer",
+		"NAME": "F**k the Police",
 	}
 }
+
+const FLOAT_BORDERS = true;
 
 for(var songName in songData) {
 	var data = songData[songName];
@@ -52,4 +60,11 @@ for(var songName in songData) {
 	});
 }
 
+function editMode( floating ) {
+	if ( !floating ) return;
+	let root = document.documentElement;
+	root.style.setProperty('--descHasBorder', "none");
+	root.style.setProperty('--songHasBorder', "none");
+}
 
+editMode(FLOAT_BORDERS)
