@@ -17,6 +17,12 @@ var songData = {
 		"CONTR": "GrenadeControl",
 		"CONTAINER": "GrenadeContainer",
 		"NAME": "Grenade",
+	},
+	"This is America": {
+		"TRACK": "AmericaAudio",
+		"CONTR": "AmericaControl",
+		"CONTAINER": "AmericaContainer",
+		"NAME": "This is America",
 	}
 }
 

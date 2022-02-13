@@ -88,7 +88,8 @@ html {
 #player-container #play-pause, 
 #RidinContainer #RidinControl,
 #FantasyContainer #FantasyControl,
-#GrenadeContainer #GrenadeControl {
+#GrenadeContainer #GrenadeControl,
+#AmericaContainer #AmericaControl {
   cursor: pointer;
   text-indent: -999999px;
   height: 40px;
