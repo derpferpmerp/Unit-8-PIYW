@@ -1,4 +1,4 @@
-// Yung Bratz Setup
+// Songs Setup
 var songData = {
 	"Ridin Dirty": {
 		"TRACK": "RidinAudio",
@@ -11,6 +11,12 @@ var songData = {
 		"CONTR": "FantasyControl",
 		"CONTAINER": "FantasyContainer",
 		"NAME": "What\'s Your Fantasy",
+	},
+	"Grenade": {
+		"TRACK": "GrenadeAudio",
+		"CONTR": "GrenadeControl",
+		"CONTAINER": "GrenadeContainer",
+		"NAME": "Grenade",
 	}
 }
 
